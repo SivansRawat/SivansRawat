@@ -110,56 +110,6 @@ I thrive on building robust and intuitive applications. Here's a glimpse into my
   <img src="https://img.shields.io/badge/Puppeteer-34495E?style=for-the-badge&logo=puppeteer&logoColor=white" alt="Puppeteer Badge">
 </p>
 
----
-
-## 🌟 Spotlight Projects
-
-Here are some of my proudest creations, showcasing my ability to tackle complex challenges and deliver robust solutions:
-
-### 🚀 JobMentorAI - Your AI-Powered Career Co-pilot
-* **Description:** An innovative, full-stack AI platform revolutionizing career development.
-* **Tech Stack:** Next.js, Shadcn UI, Google Gemini AI, Prisma, Neon PostgreSQL, Clerk, Ingest
-* **Impact & Features:**
-    * Developed a comprehensive suite including an AI Resume Builder, Intelligent Cover Letter Generator, and a realistic Mock Interview simulator.
-    * Engineered a dynamic industry insights dashboard, providing weekly data updates via Ingest for real-time market trends.
-    * Ensured robust data integrity with Prisma ORM and Neon PostgreSQL, coupled with secure, scalable user authentication through Clerk.
-
-### 📝 TaskFlow - Enterprise Project Management Redefined
-* **Description:** A robust, enterprise-grade project management application designed for seamless task and team coordination.
-* **Tech Stack:** Next.js, Node.js, PostgreSQL, AWS (EC2, RDS, Cognito), Tailwind CSS
-* **Impact & Features:**
-    * Architected and deployed on AWS, leveraging secure authentication (Cognito), scalable infrastructure (EC2), and a high-performance managed database (RDS).
-    * Crafted a highly responsive and intuitive UI with Tailwind CSS, significantly enhancing team productivity and collaboration.
-
-### 💡 DevSync - Real-time Collaborative Coding Hub
-* **Description:** A groundbreaking real-time collaborative coding environment with integrated in-browser Node.js execution.
-* **Tech Stack:** MERN, Socket.IO, Google Gemini AI, WebContainers, Redis
-* **Impact & Features:**
-    * Enabled fluid, real-time collaborative coding sessions directly within the browser, powered by WebContainers for instant Node.js execution.
-    * Integrated cutting-edge AI-powered code suggestions into a chat-based interface, dramatically boosting developer efficiency.
-    * Implemented Redis for lightning-fast real-time data caching and utilized JWT for secure project collaboration and user management.
-
----
-
-## 💼 Professional Experience & Growth
-
-### 🏢 Aspireit – Full Stack Developer Intern
-* **Duration:** May 2024 – July 2024
-* **Key Achievements:**
-    * **Developed & Optimized:** Built and fine-tuned MERN stack applications, implementing robust JWT-based authentication protocols to ensure top-tier security.
-    * **Performance Enhancement:** Significantly boosted backend performance by optimizing existing APIs and developing new, highly efficient endpoints.
-    * **Production Readiness:** Conducted comprehensive performance analysis, rigorous debugging, and proactive troubleshooting for production systems, ensuring unparalleled reliability and responsiveness.
-
----
-
-## 🎓 Academic Milestones
-
--   **Birla Institute of Applied Sciences, Uttarakhand**
-    * B.Tech in Computer Science Engineering (2022 – Present)
-    * *Current CGPA: 7.51/10*
--   **Army Public School, Dehradun**
-    * CBSE (2021 – 2022)
-    * *Achieved: 91.4%*
 
 ---
 
